@@ -1,6 +1,4 @@
 # IT-Ticketing-System-Lab
-# IT Ticketing System Lab
-
 ## Project Overview
 
 Created a simulated IT service desk environment using Spiceworks Cloud Help Desk to gain practical experience with ticket management and IT support workflows.
